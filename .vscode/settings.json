@@ -1,0 +1,7 @@
+{
+    "files.autoSave": "onFocusChange",
+    "editor.fontSize": 12,
+    "editor.cursorStyle": "underline",
+    "matlab.matlabpath": "C:\\\\Program Files\\\\MATLAB\\\\MATLAB Production Server\\\\R2015a\\\\bin\\\\win64\\\\matlab.exe",
+    "matlab.mlintpath": "C:\\\\Program Files\\\\MATLAB\\\\MATLAB Production Server\\\\R2015a\\\\bin\\\\win64\\\\mlint.exe"
+}
